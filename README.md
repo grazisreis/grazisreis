@@ -48,7 +48,7 @@
 
 ## 🌐 Vamos nos conectar!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/graziella-reis/)  
 [![Gmail](https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gsreisdejesus@gmail.com)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-ff69b4?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571992120196)
 

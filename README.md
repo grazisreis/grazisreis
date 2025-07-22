@@ -41,7 +41,7 @@
 ## 🔥 Streak de Contribuições  
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=grazisreis&theme=dracula&background=fff0f5&dates=FF69B4&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakNum=FF69B4" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=grazisreis&theme=dracula&background=fff0f5&dates=FF69B4&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakNum=FF69B4&locale=pt_BR&date_format=j%20M" alt="Streak Stats"/>
 </div>
 
 ---
@@ -52,7 +52,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gsreisdejesus@gmail.com)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-ff69b4?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571992120196)
 
-
 ---
 
-### 🌷 *"O intelectual, a moral, o religioso me parecem naturalmente ligados em um todo harmonioso" – Ada Lovelace*
+### 🌷 *"O intelectual, a moral, o religioso me parecem naturalmente ligados em um todo harmonioso." – Ada Lovelace*

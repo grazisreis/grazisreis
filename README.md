@@ -40,9 +40,7 @@
 
 ## 🔥 Streak de Contribuições  
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=grazisreis&theme=dracula&background=fff0f5&dates=FF69B4&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakNum=FF69B4&locale=pt_BR&date_format=j%20M" alt="Streak Stats"/>
-</div>
+<div align="center"> <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=grazisreis&theme=radical&background=fff0f5&dates=FF69B4&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakNum=FF69B4&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="500"/> </a> </div>
 
 ---
 

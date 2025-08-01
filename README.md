@@ -1,4 +1,4 @@
-# 💖 Prazer, eu sou Graziella!  
+# 💖 Prazer, eu sou Graziella!
 
 ✨ **Desenvolvedora** | 📊 **Analista de Dados** | 🌸 **Amante da Tecnologia**
 
@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Java+%7C+C%2B%2B+%7C+Python;MySQL+%7C+PowerBI;Dados+por+amor+%F0%9F%92%96" alt="Typing Animation" />
 </div>
 
-
----
 
 ## 🧰 Tecnologias & Ferramentas  
 
@@ -35,12 +33,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=grazisreis&show_icons=true&theme=dracula&hide_border=true&bg_color=fff0f5&title_color=FF69B4&text_color=DB7093&icon_color=FF69B4" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grazisreis&layout=compact&langs_count=7&theme=dracula&hide_border=true&bg_color=fff0f5&title_color=FF69B4&text_color=DB7093" alt="Top Languages" />
 </div>
-
----
-
-## 🔥 Streak de Contribuições  
-
-<div align="center"> <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=grazisreis&theme=radical&background=fff0f5&dates=FF69B4&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakNum=FF69B4&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="500"/> </a> </div>
 
 ---
 
